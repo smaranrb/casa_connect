@@ -84,7 +84,6 @@ Casa Connect is versatile and can be used in:
 - Nayana C V
 - G Mohith
 - Shreyank Srinivasan
-- Harisha
 - Tulasi G Rayasa
 
 School of Computer Science Engineering (SoCSE)  
