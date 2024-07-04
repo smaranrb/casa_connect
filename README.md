@@ -59,7 +59,7 @@ Casa Connect is a sophisticated home automation system designed to enhance conve
 
 ### Motion Detection
 
-- **Automatic Control**: Lights turn on when motion is detected and turn off after a specified delay when no motion is detected.
+- **Automatic Control**: Lights turn on when motion is detected and turn off after a specified delay when no motion is detected
 
 ## Applications
 
